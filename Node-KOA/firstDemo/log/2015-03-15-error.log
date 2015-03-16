@@ -1,0 +1,162 @@
+2015-03-15 17:07:20.384 nodejs.ErrorException: Error: test
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/logger.js:13:18)
+    at GeneratorFunctionPrototype.next (native)
+    at Object.respond (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/lib/application.js:172:10)
+    at GeneratorFunctionPrototype.next (native)
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/koa-compose/index.js:37:12)
+    at GeneratorFunctionPrototype.next (native)
+    at next (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/co/index.js:83:21)
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/co/index.js:56:5)
+    at Server.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/lib/application.js:123:8)
+    at Server.emit (events.js:110:17)
+pid: 4811
+domainThrown: false
+Host: yixuans-iMac-2.local
+URL: 
+Data: ""
+2015-03-15 17:07:20.384
+
+2015-03-15 17:07:31.284 nodejs.ErrorException: Error: test
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/logger.js:13:18)
+    at GeneratorFunctionPrototype.next (native)
+    at Object.respond (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/lib/application.js:172:10)
+    at GeneratorFunctionPrototype.next (native)
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/koa-compose/index.js:37:12)
+    at GeneratorFunctionPrototype.next (native)
+    at next (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/co/index.js:83:21)
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/co/index.js:56:5)
+    at Server.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/lib/application.js:123:8)
+    at Server.emit (events.js:110:17)
+pid: 4811
+domainThrown: false
+Host: yixuans-iMac-2.local
+URL: 
+Data: ""
+2015-03-15 17:07:31.284
+
+2015-03-15 17:07:31.348 nodejs.ErrorException: Error: test
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/logger.js:13:18)
+    at GeneratorFunctionPrototype.next (native)
+    at Object.respond (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/lib/application.js:172:10)
+    at GeneratorFunctionPrototype.next (native)
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/koa-compose/index.js:37:12)
+    at GeneratorFunctionPrototype.next (native)
+    at next (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/co/index.js:83:21)
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/co/index.js:56:5)
+    at Server.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/lib/application.js:123:8)
+    at Server.emit (events.js:110:17)
+pid: 4811
+domainThrown: false
+Host: yixuans-iMac-2.local
+URL: 
+Data: ""
+2015-03-15 17:07:31.348
+
+2015-03-15 17:08:46.014 nodejs.ErrorException: Error: test
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/logger.js:13:18)
+    at GeneratorFunctionPrototype.next (native)
+    at Object.respond (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/lib/application.js:172:10)
+    at GeneratorFunctionPrototype.next (native)
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/koa-compose/index.js:37:12)
+    at GeneratorFunctionPrototype.next (native)
+    at next (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/co/index.js:83:21)
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/co/index.js:56:5)
+    at Server.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/lib/application.js:123:8)
+    at Server.emit (events.js:110:17)
+pid: 4811
+domainThrown: false
+Host: yixuans-iMac-2.local
+URL: 
+Data: ""
+2015-03-15 17:08:46.014
+
+2015-03-15 17:09:05.690 nodejs.ErrorException: Error: test
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/logger.js:13:18)
+    at GeneratorFunctionPrototype.next (native)
+    at Object.respond (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/lib/application.js:172:10)
+    at GeneratorFunctionPrototype.next (native)
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/koa-compose/index.js:37:12)
+    at GeneratorFunctionPrototype.next (native)
+    at next (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/co/index.js:83:21)
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/co/index.js:56:5)
+    at Server.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/lib/application.js:123:8)
+    at Server.emit (events.js:110:17)
+pid: 4811
+domainThrown: false
+Host: yixuans-iMac-2.local
+URL: 
+Data: ""
+2015-03-15 17:09:05.690
+
+2015-03-15 17:09:36.044 nodejs.ErrorException: Error: test
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/logger.js:14:18)
+    at GeneratorFunctionPrototype.next (native)
+    at Object.respond (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/lib/application.js:172:10)
+    at GeneratorFunctionPrototype.next (native)
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/koa-compose/index.js:37:12)
+    at GeneratorFunctionPrototype.next (native)
+    at next (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/co/index.js:83:21)
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/co/index.js:56:5)
+    at Server.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/lib/application.js:123:8)
+    at Server.emit (events.js:110:17)
+pid: 4828
+domainThrown: false
+Host: yixuans-iMac-2.local
+URL: 
+Data: ""
+2015-03-15 17:09:36.044
+
+2015-03-15 17:10:09.010 nodejs.ErrorException: Error: test
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/logger.js:14:18)
+    at GeneratorFunctionPrototype.next (native)
+    at Object.respond (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/lib/application.js:172:10)
+    at GeneratorFunctionPrototype.next (native)
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/koa-compose/index.js:37:12)
+    at GeneratorFunctionPrototype.next (native)
+    at next (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/co/index.js:83:21)
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/co/index.js:56:5)
+    at Server.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/lib/application.js:123:8)
+    at Server.emit (events.js:110:17)
+pid: 4840
+domainThrown: false
+Host: yixuans-iMac-2.local
+URL: 
+Data: ""
+2015-03-15 17:10:09.010
+
+2015-03-15 17:10:30.856 nodejs.ErrorException: Error: test
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/logger.js:15:18)
+    at GeneratorFunctionPrototype.next (native)
+    at Object.dispatch (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa-router/lib/router.js:102:21)
+    at GeneratorFunctionPrototype.next (native)
+    at Object.respond (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/lib/application.js:172:10)
+    at GeneratorFunctionPrototype.next (native)
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/koa-compose/index.js:37:12)
+    at GeneratorFunctionPrototype.next (native)
+    at next (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/co/index.js:83:21)
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/co/index.js:56:5)
+pid: 4849
+domainThrown: false
+Host: yixuans-iMac-2.local
+URL: 
+Data: ""
+2015-03-15 17:10:30.856
+
+2015-03-15 17:10:36.508 nodejs.ErrorException: Error: test
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/logger.js:15:18)
+    at GeneratorFunctionPrototype.next (native)
+    at Object.dispatch (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa-router/lib/router.js:102:21)
+    at GeneratorFunctionPrototype.next (native)
+    at Object.respond (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/lib/application.js:172:10)
+    at GeneratorFunctionPrototype.next (native)
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/koa-compose/index.js:37:12)
+    at GeneratorFunctionPrototype.next (native)
+    at next (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/co/index.js:83:21)
+    at Object.<anonymous> (/Users/yixuan/work/开发笔记/practice/githubPractice/NodePractice/Node-KOA/firstDemo/node_modules/koa/node_modules/co/index.js:56:5)
+pid: 4849
+domainThrown: false
+Host: yixuans-iMac-2.local
+URL: 
+Data: ""
+2015-03-15 17:10:36.508
+
