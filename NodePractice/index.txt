@@ -1,0 +1,15 @@
+<a id="homepage1_ctl01_rptEntries_TitleUrl_0" class="PostTitle" href="http://www.cnblogs.com/hustskyking/p/zhaohaiping-in-my-eye.html">从Facebook跑来阿里的赵海平大叔，你要干啥？</a>
+<a id="homepage1_ctl01_rptEntries_TitleUrl_1" class="PostTitle" href="http://www.cnblogs.com/hustskyking/p/diff-user-load-data.html">根据访问属性进行差异化数据加载</a>
+<a id="homepage1_ctl01_rptEntries_TitleUrl_2" class="PostTitle" href="http://www.cnblogs.com/hustskyking/p/bugs.html">前人挖坑，后人填坑</a>
+<a id="homepage1_ctl01_rptEntries_TitleUrl_3" class="PostTitle" href="http://www.cnblogs.com/hustskyking/p/wai.html">也让盲人拥抱互联网</a>
+<a id="homepage1_ctl01_rptEntries_TitleUrl_4" class="PostTitle" href="http://www.cnblogs.com/hustskyking/p/communication-in-d2.html">谈谈D2</a>
+<a id="homepage1_ctl01_rptEntries_TitleUrl_5" class="PostTitle" href="http://www.cnblogs.com/hustskyking/p/life-in-alibaba.html">我在阿里这仨月</a>
+<a id="homepage1_ctl01_rptEntries_TitleUrl_6" class="PostTitle" href="http://www.cnblogs.com/hustskyking/p/promise.html">细嗅Promise</a>
+<a id="homepage1_ctl01_rptEntries_TitleUrl_7" class="PostTitle" href="http://www.cnblogs.com/hustskyking/p/remote-debug-in-mobile-development.html">PC远程调试移动设备</a>
+<a id="homepage1_ctl01_rptEntries_TitleUrl_8" class="PostTitle" href="http://www.cnblogs.com/hustskyking/p/javascript-semantization.html">如何让你的JavaScript代码更加语义化</a>
+<a id="homepage1_ctl01_rptEntries_TitleUrl_9" class="PostTitle" href="http://www.cnblogs.com/hustskyking/p/interface-in-development.html">谈谈前后端的分工协作</a>
+<a id="homepage1_ctl01_rptEntries_TitleUrl_10" class="PostTitle" href="http://www.cnblogs.com/hustskyking/p/thinking-between-learning-and-interview.html">学习和面试，这两件事儿</a>
+<a id="homepage1_ctl01_rptEntries_TitleUrl_11" class="PostTitle" href="http://www.cnblogs.com/hustskyking/p/personal-website-design-part-3.html">个人网站架构设计(三) - 从设计到前端到后台</a>
+<a id="homepage1_ctl01_rptEntries_TitleUrl_12" class="PostTitle" href="http://www.cnblogs.com/hustskyking/p/personal-website-design-part-2.html">个人网站架构设计(二)</a>
+<a id="homepage1_ctl01_rptEntries_TitleUrl_13" class="PostTitle" href="http://www.cnblogs.com/hustskyking/p/personal-website-design-part-1.html">个人网站架构设计(一)</a>
+<a id="homepage1_ctl01_rptEntries_TitleUrl_14" class="PostTitle" href="http://www.cnblogs.com/hustskyking/p/etag-in-node.html">Etag缓存在PHP和NodeJS中的实现</a>
