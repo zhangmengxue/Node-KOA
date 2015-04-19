@@ -1,0 +1,38 @@
+[
+  {
+    "name": "abc.json",
+    "path": "../../../work/blackboard/abc.json"
+  },
+  {
+    "name": "bower.json",
+    "path": "../../../work/blackboard/bower.json"
+  },
+  {
+    "name": "abc.json",
+    "path": "../../../work/m-imagesearch/abc.json"
+  },
+  {
+    "name": "kimi.json",
+    "path": "../../../work/m-imagesearch/kimi.json"
+  },
+  {
+    "name": "abc.json",
+    "path": "../../../work/preview/abc.json"
+  },
+  {
+    "name": "kimi.json",
+    "path": "../../../work/preview/kimi.json"
+  },
+  {
+    "name": "db.json",
+    "path": "../../../work/skylarblog/db.json"
+  },
+  {
+    "name": "package.json",
+    "path": "../../../work/skylarblog/package.json"
+  },
+  {
+    "name": "package.json",
+    "path": "../../../work/skylarblog/themes/landscape/package.json"
+  }
+]
