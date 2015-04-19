@@ -1,4 +1,5 @@
-# Node
+# 每天写点儿Node~
+**欢迎加入我（们）！**
 
 ###练习Node的各种Demo
 - [Node写个简单爬虫取到网页的源码匹配文章标题和链接](https://github.com/zhangmengxue/Node-KOA/blob/master/NodePractice/%E7%88%AC%E8%99%AB.js)
