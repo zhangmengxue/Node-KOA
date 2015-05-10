@@ -1,5 +1,4 @@
 # 每天写点儿Node~
-**欢迎加入我（们）！**
 
 ###练习Node的各种Demo
 1.[issues1](https://github.com/barretlee/Node-Daily-Practice/issues/1)
