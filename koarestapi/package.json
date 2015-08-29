@@ -1,0 +1,17 @@
+{
+  "name": "koarestapi",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "co-body": "~0.0.1",
+    "co-monk": "~0.0.1",
+    "koa": "~0.1.2",
+    "koa-route": "~1.0.2",
+    "koa-router": "~2.2.0",
+    "kongo": "~0.0.3",
+    "mongoose": "~3.8.3",
+    "monk": "~0.7.1"
+  },
+  "author": "yixuan"
+}

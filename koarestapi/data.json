@@ -1,0 +1,12 @@
+{
+  "mydata":
+  [
+    { "era": "Pre-Republic", "title": "Dawn of the Jedi: Into the Void", "author": "Tim Lebbon", "type": "print" },
+     { "era": "Old Republic", "title": "Lost Tribe of the Sith: Precipice", "author": "John Jackson Miller", "type": "e-book" } ,
+     { "era": "Old Republic", "title": "Lost Tribe of the Sith: Skyborn", "author": "John Jackson Miller", "type": "e-book" } ,
+     { "era": "Old Republic", "title": "Lost Tribe of the Sith: Paragon", "author": "John Jackson Miller", "type": "e-book" } ,
+     { "era": "Old Republic", "title": "Lost Tribe of the Sith: Savior", "author": "John Jackson Miller", "type": "e-book" } ,
+     { "era": "Old Republic", "title": "Lost Tribe of the Sith: Purgatory", "author": "John Jackson Miller", "type": "e-book" },
+     { "era": "Old Republic", "title": "Lost Tribe of the Sith: Sentinel", "author": "John Jackson Miller", "type": "e-book" }
+  ]
+}
