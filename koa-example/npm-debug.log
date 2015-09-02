@@ -1,0 +1,126 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/Cellar/iojs/2.3.4/bin/iojs',
+1 verbose cli   '/usr/local/lib/node_modules/tnpm/node_modules/.bin/ali-npm',
+1 verbose cli   '--no-proxy',
+1 verbose cli   '--disturl=http://npm.taobao.org/mirrors/iojs',
+1 verbose cli   '--userconfig=/Users/yixuan/.tnpmrc',
+1 verbose cli   '--registry=http://registry.npm.alibaba-inc.com',
+1 verbose cli   '--node-gyp=/usr/local/lib/node_modules/tnpm/node_modules/pangyp/bin/node-gyp.js',
+1 verbose cli   '--cache=/Users/yixuan/.tnpm',
+1 verbose cli   'install',
+1 verbose cli   'iojs',
+1 verbose cli   '3.1.0' ]
+2 info using npm@2.2.5
+3 info using node@v2.3.4
+4 verbose install initial load of /Users/yixuan/work/Node-KOA/koa-example/package.json
+5 warn package.json koa-example@0.0.0 No description
+6 warn package.json koa-example@0.0.0 No repository field.
+7 warn package.json koa-example@0.0.0 No README data
+8 verbose installManyTop reading scoped package data from /Users/yixuan/work/Node-KOA/koa-example/node_modules/co/package.json
+9 verbose installManyTop reading scoped package data from /Users/yixuan/work/Node-KOA/koa-example/node_modules/co-urllib/package.json
+10 verbose installManyTop reading scoped package data from /Users/yixuan/work/Node-KOA/koa-example/node_modules/debug/package.json
+11 verbose installManyTop reading scoped package data from /Users/yixuan/work/Node-KOA/koa-example/node_modules/koa/package.json
+12 verbose installManyTop reading scoped package data from /Users/yixuan/work/Node-KOA/koa-example/node_modules/koa-bodyparser/package.json
+13 verbose installManyTop reading scoped package data from /Users/yixuan/work/Node-KOA/koa-example/node_modules/koa-compress/package.json
+14 verbose installManyTop reading scoped package data from /Users/yixuan/work/Node-KOA/koa-example/node_modules/koa-onerror/package.json
+15 verbose installManyTop reading scoped package data from /Users/yixuan/work/Node-KOA/koa-example/node_modules/koa-router/package.json
+16 verbose installManyTop reading scoped package data from /Users/yixuan/work/Node-KOA/koa-example/node_modules/koa-session/package.json
+17 verbose installManyTop reading scoped package data from /Users/yixuan/work/Node-KOA/koa-example/node_modules/koa-static-cache/package.json
+18 verbose installManyTop reading scoped package data from /Users/yixuan/work/Node-KOA/koa-example/node_modules/koa-validator/package.json
+19 verbose installManyTop reading scoped package data from /Users/yixuan/work/Node-KOA/koa-example/node_modules/lru-cache/package.json
+20 verbose installManyTop reading scoped package data from /Users/yixuan/work/Node-KOA/koa-example/node_modules/mini-logger/package.json
+21 verbose installManyTop reading scoped package data from /Users/yixuan/work/Node-KOA/koa-example/node_modules/mocha/package.json
+22 verbose installManyTop reading scoped package data from /Users/yixuan/work/Node-KOA/koa-example/node_modules/should/package.json
+23 verbose installManyTop reading scoped package data from /Users/yixuan/work/Node-KOA/koa-example/node_modules/supertest/package.json
+24 verbose installManyTop reading scoped package data from /Users/yixuan/work/Node-KOA/koa-example/node_modules/underscore/package.json
+25 verbose installManyTop reading scoped package data from /Users/yixuan/work/Node-KOA/koa-example/node_modules/xtemplate/package.json
+26 verbose installManyTop reading scoped package data from /Users/yixuan/work/Node-KOA/koa-example/node_modules/xtpl/package.json
+27 info package.json lru-cache@2.5.0 license should be a valid SPDX license expression
+28 verbose readDependencies loading dependencies from /Users/yixuan/work/Node-KOA/koa-example/package.json
+29 silly cache add args [ 'iojs', null ]
+30 verbose cache add spec iojs
+31 silly cache add args [ '3.1.0', null ]
+32 verbose cache add spec 3.1.0
+33 silly cache add parsed spec { raw: 'iojs',
+33 silly cache add   scope: null,
+33 silly cache add   name: 'iojs',
+33 silly cache add   rawSpec: '',
+33 silly cache add   spec: '*',
+33 silly cache add   type: 'range' }
+34 silly addNamed iojs@*
+35 verbose addNamed "*" is a valid semver range for iojs
+36 silly addNameRange { name: 'iojs', range: '*', hasData: false }
+37 silly mapToRegistry name iojs
+38 silly mapToRegistry using default registry
+39 silly mapToRegistry registry http://registry.npm.alibaba-inc.com/
+40 silly mapToRegistry uri http://registry.npm.alibaba-inc.com/iojs
+41 verbose addNameRange registry:http://registry.npm.alibaba-inc.com/iojs not in flight; fetching
+42 silly cache add parsed spec { raw: '3.1.0',
+42 silly cache add   scope: null,
+42 silly cache add   name: '3.1.0',
+42 silly cache add   rawSpec: '',
+42 silly cache add   spec: '*',
+42 silly cache add   type: 'range' }
+43 silly addNamed 3.1.0@*
+44 verbose addNamed "*" is a valid semver range for 3.1.0
+45 silly addNameRange { name: '3.1.0', range: '*', hasData: false }
+46 silly mapToRegistry name 3.1.0
+47 silly mapToRegistry using default registry
+48 silly mapToRegistry registry http://registry.npm.alibaba-inc.com/
+49 silly mapToRegistry uri http://registry.npm.alibaba-inc.com/3.1.0
+50 verbose addNameRange registry:http://registry.npm.alibaba-inc.com/3.1.0 not in flight; fetching
+51 verbose request uri http://registry.npm.alibaba-inc.com/3.1.0
+52 verbose request no auth needed
+53 info attempt registry request try #1 at 13:57:01
+54 verbose request id 4402904e4c887d76
+55 http request GET http://registry.npm.alibaba-inc.com/3.1.0
+56 verbose get http://registry.npm.alibaba-inc.com/iojs not expired, no request
+57 silly addNameRange number 2 { name: 'iojs', range: '*', hasData: true }
+58 silly addNameRange versions [ 'iojs', [ '1.0.0' ] ]
+59 silly addNamed iojs@1.0.0
+60 verbose addNamed "1.0.0" is a plain semver version for iojs
+61 silly cache afterAdd iojs@1.0.0
+62 verbose afterAdd /Users/yixuan/.tnpm/iojs/1.0.0/package/package.json not in flight; writing
+63 verbose afterAdd /Users/yixuan/.tnpm/iojs/1.0.0/package/package.json written
+64 http 404 http://registry.npm.alibaba-inc.com/3.1.0
+65 verbose headers { server: 'Tengine',
+65 verbose headers   date: 'Tue, 01 Sep 2015 05:56:57 GMT',
+65 verbose headers   'content-type': 'application/json; charset=utf-8',
+65 verbose headers   'transfer-encoding': 'chunked',
+65 verbose headers   connection: 'keep-alive',
+65 verbose headers   'x-readtime': '20',
+65 verbose headers   'content-encoding': 'gzip' }
+66 silly get cb [ 404,
+66 silly get   { server: 'Tengine',
+66 silly get     date: 'Tue, 01 Sep 2015 05:56:57 GMT',
+66 silly get     'content-type': 'application/json; charset=utf-8',
+66 silly get     'transfer-encoding': 'chunked',
+66 silly get     connection: 'keep-alive',
+66 silly get     'x-readtime': '20',
+66 silly get     'content-encoding': 'gzip' } ]
+67 verbose stack Error: 404 Not Found: 3.1.0
+67 verbose stack     at CachingRegistryClient.<anonymous> (/usr/local/lib/node_modules/tnpm/node_modules/ali-npm/node_modules/npm-registry-client/lib/request.js:245:14)
+67 verbose stack     at /usr/local/lib/node_modules/tnpm/node_modules/ali-npm/node_modules/npm-registry-client/lib/request.js:176:7
+67 verbose stack     at Gunzip.onEnd (zlib.js:227:5)
+67 verbose stack     at emitNone (events.js:72:20)
+67 verbose stack     at Gunzip.emit (events.js:166:7)
+67 verbose stack     at endReadableNT (_stream_readable.js:889:12)
+67 verbose stack     at doNTCallback2 (node.js:430:9)
+67 verbose stack     at process._tickCallback (node.js:344:17)
+68 verbose statusCode 404
+69 verbose pkgid 3.1.0
+70 verbose cwd /Users/yixuan/work/Node-KOA/koa-example
+71 error Darwin 14.3.0
+72 error argv "/usr/local/Cellar/iojs/2.3.4/bin/iojs" "/usr/local/lib/node_modules/tnpm/node_modules/.bin/ali-npm" "--no-proxy" "--disturl=http://npm.taobao.org/mirrors/iojs" "--userconfig=/Users/yixuan/.tnpmrc" "--registry=http://registry.npm.alibaba-inc.com" "--node-gyp=/usr/local/lib/node_modules/tnpm/node_modules/pangyp/bin/node-gyp.js" "--cache=/Users/yixuan/.tnpm" "install" "iojs" "3.1.0"
+73 error node v2.3.4
+74 error npm  v2.2.5
+75 error code E404
+76 error 404 Not Found: 3.1.0
+76 error 404
+76 error 404 '3.1.0' is not in the npm registry.
+76 error 404 You should bug the author to publish it (or use the name yourself!)
+76 error 404 It was specified as a dependency of 'koa-example'
+76 error 404
+76 error 404 Note that you can also install from a
+76 error 404 tarball, folder, http url, or git url.
+77 verbose exit [ 1, true ]

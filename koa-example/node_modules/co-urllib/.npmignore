@@ -1,0 +1,5 @@
+test/
+logo.png
+coverage/
+.jshintignore
+.jshintrc
