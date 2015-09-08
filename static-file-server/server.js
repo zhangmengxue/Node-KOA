@@ -1,20 +1,36 @@
-var static = require('node-static');
+var fs = require('fs');
+var path = require('path');
+var http = require('http');
 
-//
-// Create a node-static server to serve the current directory
-//
-var file = new static.Server('./public');
+var dir = './';
 
-require('http').createServer(function (request, response) {
-    file.serve(request, response, function (err, res) {
-        if (err) { // An error as occured
-            console.error("> Error serving " + request.url + " - " + err.message);
-            response.writeHead(err.status, err.headers);
-            response.end();
-        } else { // The file was served successfully
-            console.log("> " + request.url + " /" + res.message);
-        }
+http.createServer(function(request,response){
+  response.writeHead(200, {'Content-Type': 'text/html' });
+  //response.write(new Buffer(names));
+  fs.readdir(dir,function(err,files){
+    files.forEach(function(filename){
+      var filepath = path.join(dir,filename);
+      response.write('<a href="'+dir+filename+'">'+filename+'</a><br>');
+      // fs.stat(filepath,function(err,stat){
+      //   if(stat.isDirectory()){
+      //     //readFile(filename);
+      //   }else{
+      //     http.get("http://localhost:8000/"+filename, function(res) {
+      //     fs.readFile(filepath,function(err,data){
+      //         response.write(data.toString());
+      //       });
+      //     }).on('error', function(e) {
+      //       console.log("错误：" + e.message);
+      //     });
+      //   }
+      // });
+
     });
-}).listen(8080);
+    response.end();
+  });
+}).listen(8000);
 
-console.log("> node-static is listening on http://127.0.0.1:8080");
+
+
+
+
