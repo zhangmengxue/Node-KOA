@@ -1,13 +1,47 @@
 ##这里有关于Node和Koa的各种各种，不定时更新....
 
-###练习Node的各种Demo
-1.[issues1](https://github.com/barretlee/Node-Daily-Practice/issues/1)
+**/NodePractice**
 
-+ [Node写个简单爬虫取到网页的源码匹配文章标题和链接](https://github.com/zhangmengxue/Node-KOA/blob/master/NodePractice/%E7%88%AC%E8%99%AB.js)
+关于Node的一些小例子，爬虫，文件遍历，简单的静态资源服务器等....
 
-2.[issues2](https://github.com/barretlee/Node-Daily-Practice/issues/2)
+**/apitestdata**
 
-+ [Node目录遍历](https://github.com/zhangmengxue/Node-KOA/blob/master/NodePractice/%E9%81%8D%E5%8E%86%E7%9B%AE%E5%BD%95%E8%8E%B7%E5%8F%96json%E6%96%87%E4%BB%B6.js)
-+ [进阶版目录遍历](https://github.com/zhangmengxue/Node-KOA/blob/master/NodePractice/%E8%BF%9B%E9%98%B6%E7%89%88%E7%9B%AE%E5%BD%95%E9%81%8D%E5%8E%86.js)
+一个简单的使用mongodb数据库进行数据交互的例子。
 
-3.[koaServerDemo](https://github.com/zhangmengxue/Node-KOA/blob/master/startedKOA/startedKoaServer.js)
+**/callback-vs-generator**
+
+通过多种不同的方案实现同一个功能的例子，有原生的实现，模块化的实现，promise和generator实现。
+
+**/emptyexpress**
+
+空的express生成的目录
+
+**/find-word-in-lines**
+
+在文件中查找关键词并定位在哪个文件中的第几行
+
+**/koa-example**
+
+通过koa的generator-k脚手架生成的koa项目目录
+
+**/koarestapi**
+
+koa版本的restapi
+
+**/myapi**
+
+express版本的restapi简单实现
+
+**/restfulAPI**
+
+mongodb数据库交互的restfulapi实现
+
+**/websocket**
+
+nodejs探究websocket的各种各种
+
+**/命令行程序**
+
+一个命令行程序的小例子。
+
+
