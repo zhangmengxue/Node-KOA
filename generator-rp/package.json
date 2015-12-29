@@ -1,0 +1,13 @@
+{
+  "name": "generator-rp",
+  "version": "0.1.0",
+  "description": "a basic react webpack project generator",
+  "files": [
+    "app",
+    "router"
+  ],
+  "keywords": ["yeoman-generator"],
+  "dependencies": {
+    "yeoman-generator": "^0.20.2"
+  }
+}
